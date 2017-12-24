@@ -12,6 +12,10 @@ java ProgramXX  * XX is the test number.
    
    ex: java Program112
 
+** NOTE ** Each Program class has the list of required included information in 
+           the class level comments at the top. 
+
+
 Merry Christmas!
 
 Andy P
